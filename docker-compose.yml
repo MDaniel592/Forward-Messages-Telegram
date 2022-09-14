@@ -2,7 +2,7 @@ version: "3.5"
 services:
 
   tgforwardmessages:
-    build: ./tgforwardmessages
+    build: ./app
     image: tgforwardmessages:latest
     container_name: tgforwardmessages
     restart: always

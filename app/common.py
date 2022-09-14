@@ -1,0 +1,11 @@
+from http.client import FORBIDDEN
+
+
+API_ID = "XXX"
+API_HASH = "XXXX"
+
+CHANNEL_READ_ID = "XXX"
+CHANNEL_SEND_ID = "me"
+
+# CASE INSENSITIVE
+ALLOWED_MESSAGES = "Signal details"
